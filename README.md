@@ -1,5 +1,3 @@
-# employee-department-manager
-
 # MySQL Employee GUI
 
 A simple Python GUI application for viewing Employee and Department data from a MySQL database.
